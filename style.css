@@ -1,0 +1,37 @@
+body {
+    background-color: #ececec;
+}
+
+.login {
+    background-color: #fff;
+    background-color: #fff;
+    width: 23%;
+    margin: auto;
+    margin-top: 89px;
+    padding: 5px;
+    box-shadow: 1px 0 38px 0px #ccc;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.login input {
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+}
+
+.login a {
+    display: block !important;
+    text-decoration: none;
+}
+
+table {
+    text-align: center;
+    margin: auto;
+    margin: 10px;
+    border: 1px solid rgb(143, 143, 143);
+}
+
+.main input,
+.main button {
+    margin: 10px !important;
+}
